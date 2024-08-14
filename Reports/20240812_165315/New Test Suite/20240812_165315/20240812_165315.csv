@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,12-08-2024 16:53:18,12-08-2024 16:53:19,0.707s,FAILED
+,,,,,,,
+Test Cases/New Test Case,,,,12-08-2024 16:53:18,12-08-2024 16:53:19,0.559s,FAILED
+"clearText(findTestObject(""android.widget.EditText - UIAutomator2""))",,,,12-08-2024 16:53:18,12-08-2024 16:53:19,0.339s,FAILED

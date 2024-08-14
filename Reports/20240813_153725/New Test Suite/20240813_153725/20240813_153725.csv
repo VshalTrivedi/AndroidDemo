@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,2024-08-13 15:37:27,2024-08-13 15:37:58,31.001s,FAILED
+,,,,,,,
+Test Cases/New Test Case,,,,2024-08-13 15:37:28,2024-08-13 15:37:58,30.766s,FAILED
+"startApplication(""D:\Katalon Studio\AndroidDemo\Resources\General-Store.apk"", true)",,,,2024-08-13 15:37:28,2024-08-13 15:37:58,30.478s,FAILED

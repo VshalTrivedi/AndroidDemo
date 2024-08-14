@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,12-08-2024 17:13:46,12-08-2024 17:14:05,18.651s,FAILED
+,,,,,,,
+Test Cases/New Test Case,,,,12-08-2024 17:13:47,12-08-2024 17:14:05,18.498s,FAILED
+"appPath = ""D:\Katalon Studio\AndroidDemo\Resources\General-Store.apk""",,,,12-08-2024 17:13:47,12-08-2024 17:13:47,0.003s,PASSED
+"startApplication(appPath, false)",,,,12-08-2024 17:13:47,12-08-2024 17:14:01,13.698s,PASSED
+"setText(findTestObject(""EnterName""), ""Viranga"", 10)",,,,12-08-2024 17:14:01,12-08-2024 17:14:03,2.754s,PASSED
+"tap(findTestObject(""android.widget.Button - Lets  Shop""), 10)",,,,12-08-2024 17:14:03,12-08-2024 17:14:05,1.836s,FAILED
